@@ -1,0 +1,2 @@
+#!/bin/bash
+tr [:alpha:] A Z | tr [:alpha:] c e
