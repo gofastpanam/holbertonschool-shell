@@ -1,2 +1,2 @@
 #!/bin/bash
-ls *.txt | head | sort -k
+ls -lt | head 
