@@ -1,2 +1,2 @@
 #!/bin/bash
-tr [:alpha:] A Z | tr [:alpha:] c e
+tr A-Z c-e 
